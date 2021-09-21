@@ -11,5 +11,5 @@
 
 <div>
   <img height="166" align="left" src="https://github-readme-stats.vercel.app/api?username=Dbo-Kt69&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbo-Kt69&layout=compact" />
+  <img height="166" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbo-Kt69&layout=compact" />
 </div>
