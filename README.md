@@ -1,4 +1,4 @@
-### 🏆 Github Profile Trophy
+### 🏆 I am Aditor
 <p align="center"><img width=800 src="https://github-profile-trophy.vercel.app/?username=Dbo-Kt69&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
 
 * * *
