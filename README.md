@@ -10,6 +10,6 @@
 * * *
 
 <div>
-  <img height="210" align="left" src="https://github-readme-stats.vercel.app/api?username=Dbo-Kt69&count_private=true&include_all_commits=true" />
+  <img height="210" align="center" src="https://github-readme-stats.vercel.app/api?username=Dbo-Kt69&count_private=true&include_all_commits=true" />
   <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dbo-Kt69&layout=compact" />
 </div>
