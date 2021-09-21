@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="85%" src="./Aditor.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./Aditor.png" /></a></p>
 
 
 <br />
