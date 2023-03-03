@@ -7,7 +7,7 @@
 * * *
 
 <br />
-### 🏆 Github Profile Trophy
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhssugi&layout=compact&theme=tokyonight)
 
 * * *
 
