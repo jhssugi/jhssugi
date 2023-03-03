@@ -7,17 +7,21 @@
 * * *
 
 <br />
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=jhssugi&&show_icons=true&theme=radical"/>
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhssugi&layout=compact&theme=tokyonight"/>
-  </a>
+<a href="https://github.com/jhssugi/jhssugi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhssugi&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/jhssugi/jhssugi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhssugi&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
-</p>
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhssugi&layout=compact&theme=tokyonight](https://github-readme-activity-graph.cyclic.app/graph?username=jhssugi&theme=dracula"/>
-  </a>
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jhssugi&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 </p>
 
