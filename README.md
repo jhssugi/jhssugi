@@ -1,4 +1,3 @@
-### 🏆 Aditor@NTL-INC.Email
 
 * * *
 
